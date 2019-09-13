@@ -1,3 +1,17 @@
 .App {
   text-align: center;
 }
+
+.Nav {
+  background-color: aqua;
+}
+
+.slideshow {
+  display: block;
+  margin: auto;
+  width: 700px;
+}
+
+.carousel {
+  height: ;
+}
